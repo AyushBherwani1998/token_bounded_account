@@ -1,7 +1,7 @@
 import 'dart:typed_data';
-import 'package:console/utils/contract.dart';
-import 'package:console/utils/service_locator.dart';
-import 'package:console/utils/utils.dart';
+import 'package:token_bounded_account/utils/contract.dart';
+import 'package:token_bounded_account/utils/service_locator.dart';
+import 'package:token_bounded_account/utils/utils.dart';
 import 'package:dotenv/dotenv.dart';
 import 'package:logger/logger.dart';
 import 'package:web3dart/web3dart.dart';

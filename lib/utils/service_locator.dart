@@ -1,5 +1,5 @@
-import 'package:console/utils/account.dart';
-import 'package:console/utils/utils.dart';
+import 'package:token_bounded_account/utils/account.dart';
+import 'package:token_bounded_account/utils/utils.dart';
 import 'package:dotenv/dotenv.dart';
 import 'package:get_it/get_it.dart';
 import 'package:logger/logger.dart';

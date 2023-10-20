@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:console/utils/service_locator.dart';
+import 'package:token_bounded_account/utils/service_locator.dart';
 import 'package:web3dart/web3dart.dart';
 
 extension HexExtension on String {
